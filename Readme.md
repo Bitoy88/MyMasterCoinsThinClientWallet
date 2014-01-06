@@ -3,7 +3,7 @@
 2. Click Documents
 3. In the address box enter "%appdata%"
 4. Double Click Bitcoin
-5. Open bitcoin.conf with notepad
+5. Open bitcoin.conf with notepad (if it doesn't exist, it needs to be created. [See also](https://en.bitcoin.it/wiki/Running_Bitcoin#Bitcoin.conf_Configuration_File))
 6. Take note of your RPCUser and RPCPassword
 
 # Run "C:\Program Files (x86)\Bitcoin\bitcoin-qt.exe" -server
