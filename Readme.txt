@@ -1,24 +1,16 @@
-1. Look for Bitcoin.conf
- Click Start
- Click Documents
- In the address box enter "%appdata%"
- Double Click Bitcoin
- Open bitcoin.conf with notepad
- Take note of your RPCUser and RPCPassword
+MyMastercoins Wallet Version 2.0 
 
-2. Run "C:\Program Files (x86)\Bitcoin\bitcoin-qt.exe" -server
- Click Recieve tab
- Enter a Label for each BTC Address.
+1. Run Bitcoin-qt.exe
+ex. 
+Click Start
+Enter cmd
+Enter "C:\Program Files (x86)\Bitcoin\bitcoin-qt.exe -server"
+Press Enter
 
+2. Extract MyMastercoinsWallet2.exe
 
-3. Run MyMastercoinsTCW.exe
- Click "Continue" if you encounter "InvalidArgument=Value ..."
- Click Settings
- Enter the RPCUser
- Enter RPC Password
- Click Update
- Close the program
+3. Run Setup.exe
 
-4. Run MyMastercoinsTCW.exe
+4. Click [Address] to import all your BTC Address from your wallet.  Or Enter the Address and click +
 
 
